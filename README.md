@@ -65,32 +65,7 @@ We use this categorical data encoding technique when the features are nominal(do
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # RESULT:
-       Hence the transformation process for the given data is sucessfully completed by using Feature Encoding and Transformation
+  Hence the transformation process for the given data is sucessfully completed by using Feature Encoding and Transformation
 
        
